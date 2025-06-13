@@ -1,0 +1,7 @@
+/app/src/main/java/com/example/mcpserver/service/DocumentNotFoundException.java
+/app/src/main/java/com/example/mcpserver/service/FreightService.java
+/app/src/main/java/com/example/mcpserver/repository/FreightDocumentRepository.java
+/app/src/main/java/com/example/mcpserver/McpServerApplication.java
+/app/src/main/java/com/example/mcpserver/advice/RestExceptionHandler.java
+/app/src/main/java/com/example/mcpserver/controller/FreightController.java
+/app/src/main/java/com/example/mcpserver/model/FreightDocument.java

@@ -1,0 +1,8 @@
+com/example/mcpserver/service/DocumentNotFoundException.class
+com/example/mcpserver/controller/FreightController.class
+com/example/mcpserver/McpServerApplication.class
+com/example/mcpserver/repository/FreightDocumentRepository.class
+com/example/mcpserver/advice/RestExceptionHandler.class
+com/example/mcpserver/advice/RestExceptionHandler$ApiError.class
+com/example/mcpserver/model/FreightDocument.class
+com/example/mcpserver/service/FreightService.class

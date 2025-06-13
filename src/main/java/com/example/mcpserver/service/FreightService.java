@@ -8,7 +8,14 @@ import org.springframework.stereotype.Service;
 import java.time.LocalDateTime;
 import java.util.Optional;
 
-// DocumentNotFoundException is now in its own file
+ 
+// Define a custom exception for document not found
+class DocumentNotFoundException extends RuntimeException {
+    public DocumentNotFoundException(String message) {
+        super(message);
+    }
+}
+ 
 
 @Service
 public class FreightService {
